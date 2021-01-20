@@ -1,15 +1,15 @@
 Modify your flags using .sp file
 
 Default rank flags:
-[Owner] ADMFLAG_ROOT
-[Co-Owner] ADMFLAG_UNBAN
-[Operator] ADMFLAG_RESERVATION
-[Moderator] ADMFLAG_BAN
-[Admin] ADMFLAG_VOTE
-[Helper] ADMFLAG_SLAY
+1. [Owner] ADMFLAG_ROOT
+2. [Co-Owner] ADMFLAG_UNBAN
+3. [Operator] ADMFLAG_RESERVATION
+4. [Moderator] ADMFLAG_BAN
+5. [Admin] ADMFLAG_VOTE
+6. [Helper] ADMFLAG_SLAY
 
 Default vip flag:
-[VIP] ADMFLAG_CUSTOM1
+1. [VIP] ADMFLAG_CUSTOM1
 
 
 Thanks for using my plugin!
